@@ -12,7 +12,9 @@ bash
 Copy code
 git clone https://github.com/thefaceofzed/Pokedexv2.git
 Navigate to the project directory and build the application using Maven
- Link of the api : https://pokeapi.co
+
+
+Link of the api : https://pokeapi.co
 Usage
 Upon opening the Pokedex, you will see a list of Pokemon with their names and images. Clicking on a Pokemon will show more details about it, including its type, abilities, and stats. You can also use the search bar at the top of the page to search for a specific Pokemon by name.
 
