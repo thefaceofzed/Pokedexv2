@@ -23,3 +23,4 @@ Upon opening the Pokedex, you will see a list of Pokemon with their names and im
 
 Contributing
 Contributions are welcome! If you would like to contribute to the project, please create a pull request and describe the changes you have made. Please make sure to follow the code style used in the project.
+![77502018-f7d36000-6e9c-11ea-92b0-1097240c8689](https://user-images.githubusercontent.com/79986278/232258803-d22becbe-0cb8-4942-8999-fde6b14c544a.png)
