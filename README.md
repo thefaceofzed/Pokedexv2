@@ -14,9 +14,12 @@ git clone https://github.com/thefaceofzed/Pokedexv2.git
 Navigate to the project directory and build the application using Maven
 
 
-Link of the api : https://pokeapi.co
+Link of the api :This project uses the PokeAPI to retrieve data on the Pokemon and display it in the application. You can find more information about the PokeAPI at https://pokeapi.co.
+
+
 Usage
-Upon opening the Pokedex, you will see a list of Pokemon with their names and images. Clicking on a Pokemon will show more details about it, including its type, abilities, and stats. You can also use the search bar at the top of the page to search for a specific Pokemon by name.
+
+Upon opening the Pokedex, you will see a list of Pokemon with their names and images. Clicking on a Pokemon will show more details about it, including its type, abilities, and stats.
 
 Contributing
 Contributions are welcome! If you would like to contribute to the project, please create a pull request and describe the changes you have made. Please make sure to follow the code style used in the project.
